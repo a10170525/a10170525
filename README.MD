@@ -1,4 +1,4 @@
-# i do
+## i do
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -8,7 +8,7 @@
 ![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Memory](https://img.shields.io/badge/Low%20Level-Memory-555555?style=flat&logo=databricks&logoColor=white)
 
-# i did
+## i did
 1. Xyia** cracked
 
 2. Onda** creaked
@@ -16,3 +16,12 @@
 3. Crypto Ai agent cracked
 
 4. etc
+
+## completed project
+1. massive acc checker
+
+2. DC mass DM
+
+3. self bot
+
+4. Api backtracking
