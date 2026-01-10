@@ -1,27 +1,73 @@
-## i do
+<h1 align="center">👋 Hi, I'm Jihun Jeong</h1>
+<h3 align="center">Builder · Low-level Enthusiast · WebGL Engineer</h3>
+
+<p align="center">
+🧠 Memory-level Thinking &nbsp;|&nbsp;
+🌐 Web & Graphics &nbsp;|&nbsp;
+🐧 Linux Systems
+</p>
+
+---
+
+## ⚙️ i do
+
+<p align="center">
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Memory](https://img.shields.io/badge/Low%20Level-Memory-555555?style=flat&logo=databricks&logoColor=white)
+![Low%20Level](https://img.shields.io/badge/Low_Level-Memory-555555?style=flat)
 
-## i did
-1. Xyia** cracked
+</p>
 
-2. Onda** creaked
+---
 
-3. Crypto Ai agent cracked
+## 🧩 i build
 
-4. etc
+- 🌐 **Flask-based platforms** with custom frontends  
+- 🎮 **WebGL interactive experiences**  
+- ⚡ **High-performance automation tools**  
+- 🐧 **Linux-based infrastructure**  
+- 🧠 **Low-level & reverse-oriented utilities**
 
-## completed project
-1. massive acc checker
+---
 
-2. DC mass DM
+## 🔓 i did
 
-3. self bot
+- Xyia** — security research & bypass tooling  
+- Onda** — protocol analysis & automation  
+- Crypto AI Agent — autonomous trading logic  
+- Misc private tooling & system utilities  
 
-4. Api backtracking
+---
+
+## ✅ completed projects
+
+- 🚀 **Massive Account Checker**  
+- 💬 **Discord Mass DM Framework**  
+- 🤖 **Self-bot Automation Suite**  
+- 🔎 **API Backtracking Toolkit**
+
+---
+
+## 📊 stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 links
+
+- 🌍 WebGL Portfolio: https://your-site.com  
+- 💻 GitHub: https://github.com/YOUR_GITHUB_ID  
+- 💬 Discord: your_tag  
+- 📧 Email: your@email.com
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_ID&color=blueviolet"/>
+</p>
