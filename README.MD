@@ -1,13 +1,3 @@
-<h1 align="center">👋 Hi, I'm Jihun Jeong</h1>
-<h3 align="center">Builder · Low-level Enthusiast · WebGL Engineer</h3>
-
-<p align="center">
-🧠 Memory-level Thinking &nbsp;|&nbsp;
-🌐 Web & Graphics &nbsp;|&nbsp;
-🐧 Linux Systems
-</p>
-
----
 
 ## ⚙️ i do
 
