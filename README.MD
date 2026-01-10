@@ -16,6 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -53,18 +54,12 @@
 
 ---
 
-## 📊 stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight)
-
----
-
 ## 🌐 links
 
-- 🌍 WebGL Portfolio: https://your-site.com  
-- 💻 GitHub: https://github.com/YOUR_GITHUB_ID  
-- 💬 Discord: your_tag  
-- 📧 Email: your@email.com
+- 🌍 My bio: https://minsxxo.kro.kr/ 
+- 💻 GitHub: https://github.com/a10170525
+- 💬 Discord: @drrrr33
+- 📧 Email: as98987246@gmail.com
 
 ---
 
