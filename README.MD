@@ -44,7 +44,7 @@
 
 ## 🌐 links
 
-- 🌍 My bio: https://minsxxo.kro.kr/ 
+- 🌍 My bio: http://minsxxo.kro.kr/ 
 - 💻 GitHub: https://github.com/a10170525
 - 💬 Discord: @drrrr33
 - 📧 Email: as98987246@gmail.com
