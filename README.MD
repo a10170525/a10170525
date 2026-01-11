@@ -18,8 +18,6 @@
 
 ## 🧩 i build
 
-- 🌐 **Flask-based platforms** with custom frontends  
-- 🎮 **WebGL interactive experiences**  
 - ⚡ **High-performance automation tools**  
 - 🐧 **Linux-based infrastructure**  
 - 🧠 **Low-level & reverse-oriented utilities**
