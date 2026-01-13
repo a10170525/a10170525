@@ -42,10 +42,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a10170525&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 links
 
 - 🌍 My bio: http://minsxxo.kro.kr/ 
