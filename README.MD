@@ -13,6 +13,7 @@
 ![Low%20Level](https://img.shields.io/badge/Low_Level-Memory-555555?style=flat)
 
 </p>
+`Python` `FastAPI`
 
 ---
 
