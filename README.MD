@@ -2,10 +2,10 @@
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=99bbff&height=120&text=Hello%20im%20Savage%20:)&animation=&fontColor=ffffff&fontSize=60" />
     </div>
   
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Im savage </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> i continuously focus on understanding user need and eliminating fiction :)</li><li> i build projects as a passion aiming to create something big in the future</li></li><li> still learning still growing</li><li> i hope you'll enjoy watching my journey :D</li> </div> 
-    </div>
+- i continuously focus on understanding user need and eliminating fiction :)
+- i build projects as a passion aiming to create something big in the future
+- still learning still growing
+- i hope you'll enjoy watching my journey :D
 
 
 ---
