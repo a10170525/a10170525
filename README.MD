@@ -6,7 +6,11 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Im savage </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> i continuously focus on understanding user need and eliminating fiction :)</li><li> i build projects as a passion aiming to create something big in the future</li></li><li> still learning still growing</li><li> i hope you'll enjoy watching my journey :D</li> </div> 
     </div>
-    
+
+
+---
+
+## My stacks
 
 <p align="center">
   
@@ -23,15 +27,15 @@
 
 ---
 
-## 🧩 i build
+## i build
 
-- ⚡ **High-performance automation tools**  
-- 🐧 **Linux-based infrastructure**  
-- 🧠 **Low-level & reverse-oriented utilities**
+- **High-performance automation tools**  
+- **Linux-based infrastructure**  
+- **Low-level & reverse-oriented utilities**
 
 ---
 
-## 🔓 i did
+## i did
 
 - Xyia** — security research & bypass tooling  
 - Onda** — protocol analysis & automation  
@@ -40,21 +44,21 @@
 
 ---
 
-## ✅ completed projects
+## completed projects
 
-- 🚀 **Massive Account Checker**  
-- 💬 **Discord Mass DM Framework**  
-- 🤖 **Self-bot Automation Suite**  
-- 🔎 **API Backtracking Toolkit**
+- **Massive Account Checker**  
+- **Discord Mass DM Framework**  
+- **Self-bot Automation Suite**  
+- **API Backtracking Toolkit**
 
 ---
 
-## 🌐 links
+## links
 
-- 🌍 My bio: http://minsxxo.kro.kr/ 
-- 💻 GitHub: https://github.com/a10170525
-- 💬 Discord: @drrrr33
-- 📧 Email: as98987246@gmail.com
+- My bio: http://minsxxo.kro.kr/ 
+- GitHub: https://github.com/a10170525
+- Discord: @drrrr33
+- Email: as98987246@gmail.com
 
 ---
 
