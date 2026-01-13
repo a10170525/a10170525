@@ -1,7 +1,9 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=99bbff&height=120&text=Hello%20im%20Savage%20:)&animation=&fontColor=ffffff&fontSize=60" />
     </div>
-  
+---
+
+## Im savage
 - i continuously focus on understanding user need and eliminating fiction :)
 - i build projects as a passion aiming to create something big in the future
 - still learning still growing
